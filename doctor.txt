@@ -1,0 +1,31 @@
+Dr. Aarav Sharma,Cardiologist,0
+Dr. Priya Nambiar,Cardiologist,2
+Dr. Rohan Kapoor,Cardiologist,2
+Dr. Sneha Kulkarni,Cardiologist,2
+Dr. Nisha Iyer,Dermatologist,2
+Dr. Ritu Sen,Dermatologist,2
+Dr. Ananya Bhatt,Dermatologist,2
+Dr. Rajeev Menon,Neurologist,2
+Dr. Kavya Rao,Neurologist,0
+Dr. Suresh Pillai,Neurologist,2
+Dr. Meera Deshmukh,Pediatrician,1
+Dr. Arjun Patil,Pediatrician,2
+Dr. Divya Jain,Pediatrician,2
+Dr. Anil Reddy,Orthopedic Surgeon,2
+Dr. Varun Shetty,Orthopedic Surgeon,2
+Dr. Swati Joshi,Orthopedic Surgeon,2
+Dr. Kavita Joshi,Oncologist,2
+Dr. Manish Mehta,Oncologist,2
+Dr. Neha Sinha,Oncologist,2
+Dr. Sandeep Verma,Psychiatrist,2
+Dr. Pooja Khanna,Psychiatrist,0
+Dr. Abhishek Rao,Psychiatrist,2
+Dr. Ritu Kapoor,Ophthalmologist,0
+Dr. Tarun Gupta,Ophthalmologist,2
+Dr. Shalini Desai,Ophthalmologist,2
+Dr. Aditya Bansal,Endocrinologist,2
+Dr. Preeti Shah,Endocrinologist,2
+Dr. Mohan Iyer,Endocrinologist,2
+Dr. Sneha Nair,Gastroenterologist,2
+Dr. Vinay Kulkarni,Gastroenterologist,2
+Dr. Asha Ramesh,Gastroenterologist,2
